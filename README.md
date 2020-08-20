@@ -8,7 +8,7 @@ your Notes, Images and Urls.
 # Features
 
 1. Save Notes
-2. Display Notes in Recycler VIew
+2. Display Notes in Recycler View
 3. Edit your note
 4. Add Image, Urls to your Note
 5. Delete Note
