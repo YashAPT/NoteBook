@@ -4,6 +4,7 @@ App Name - **_NoteBook_**
 
 A Handy Application using which you can save 
 your Notes, Images and Urls.
+Data is store in local database(ROOM)
 
 # Features
 
